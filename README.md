@@ -19,7 +19,7 @@
 - Beyond my professional endeavors, I cherish my role as a mother to a bilingual 11-year-old daughter, who also shares my passion for programming. Together, we explore the realms of Python development, fostering a creative and nurturing environment for her growth.
 
 ### 🕹️ Hobbies
-— I have a passion for Arcade Games 👾 and Chess Problems ♟️, engaging my mind in strategic challenges. I'm an avid rider of my Harley Davidson 🏍️💨 LowRiderS 2021, feeling the freedom of the road. I also train in Muay Thai & Krabi–krabong, 🥊⚔️ channeling discipline and strength.
+- I have a passion for Arcade Games 👾 and Chess Problems ♟️, engaging my mind in strategic challenges. I'm an avid rider of my Harley Davidson 🏍️💨 LowRiderS 2021, feeling the freedom of the road. I also train in Muay Thai & Krabi–krabong, 🥊⚔️ channeling discipline and strength.
 
 ## 🚀 Technologies
 TypeScript, Javascript, HTML5, CSS, nodeJS, reactJS, GraphQL, PostgreSQL, Azure Container Apps
