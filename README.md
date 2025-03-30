@@ -16,7 +16,7 @@
 - From conceptualization to deployment, I possess the proficiency to craft and deploy robust web applications. I specialize in utilizing Azure Container Apps, seamlessly transitioning projects from inception to production.
 
 ### 👨‍👩‍👧 Personal Life
-- Beyond my professional endeavors, I cherish my role as a mother to a bilingual 11-year-old daughter, who also shares my passion for programming. Together, we explore the realms of Python development, fostering a creative and nurturing environment for her growth.
+- Beyond my professional endeavors, I cherish my role as a mother to a bilingual 13-year-old daughter, who also shares my passion for programming. Together, we explore the realms of Python development, fostering a creative and nurturing environment for her growth.
 
 ### 🕹️ Hobbies
 - I have a passion for Arcade Games 👾 and Chess Problems ♟️, engaging my mind in strategic challenges. I'm an avid rider of my Harley Davidson 🏍️💨 LowRiderS 2021, feeling the freedom of the road. I also train in Muay Thai & Krabi–krabong, 🥊⚔️ channeling discipline and strength.
@@ -26,6 +26,5 @@ Python, TypeScript, Javascript, Jinja3, HTML5, CSS, nodeJS, GraphQL, PostgreSQL,
 
 
 ## 👩‍💻 Contact me!
-LinkedIn: [linkedin.com/in/angelaelisa](https://www.linkedin.com/in/angelaelisa) 
-Let's connect and embark on exciting collaborations! 🚀
+LinkedIn: [linkedin.com/in/angelaelisa](https://www.linkedin.com/in/angelaelisa)
 
